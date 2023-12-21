@@ -4,7 +4,7 @@ import { Videos } from "./";
 import { fetchFromApi } from "../utils/fatchFromApi";
 import { useParams } from "react-router-dom";
 
-const Feed = () => {
+const SearchFeed = () => {
   const [videos, setVideos] = useState([]);
   const { searchTearm } = useParams();
 
@@ -33,4 +33,4 @@ const Feed = () => {
   );
 };
 
-export default Feed;
+export default SearchFeed;
