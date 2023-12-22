@@ -6,7 +6,7 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-## [ Preview](yt-clone-for-video.netlify.app) Project Hosted Link
+## [Explore the YouTube Clone](https://yt-clone-for-video.netlify.app/)
 # YouTube Clone with React and Vite
 
 ![YouTube Clone](https://i.ibb.co/s9Qys2j/logo.png)
